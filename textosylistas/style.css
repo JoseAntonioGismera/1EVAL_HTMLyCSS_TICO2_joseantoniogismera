@@ -5,3 +5,13 @@ span.negrita{
 }
 
 span.enana { font-size: larger;}
+ul{
+    list-style-type: square;
+}
+ul{
+    list-style-image: url("img/1111\ \(1\).png");
+}
+
+ol{
+    list-style-image: url("img/balondeoro\ \(1\).png") ;
+}
