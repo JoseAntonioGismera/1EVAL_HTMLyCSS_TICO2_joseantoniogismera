@@ -1,0 +1,11 @@
+table{border: #4289da85 3px solid;
+}
+td, th {
+    border: rgba(7, 5, 88, 0.541) 1px solid;
+  }
+  caption{font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    text-shadow: rgba(7, 56, 218, 0.151) -6px 0;
+    text-transform: uppercase;}
